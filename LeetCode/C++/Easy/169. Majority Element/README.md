@@ -1,6 +1,6 @@
 # 📝 169. Majority Element (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/majority-element)
+🔗 [Problem Link](https://leetcode.com/problems/majority-element/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
